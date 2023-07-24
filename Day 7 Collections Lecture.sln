@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 7 Collections Lecture", "Day 7 Collections Lecture\Day 7 Collections Lecture.csproj", "{83FAC692-B04D-4F08-AA7A-0CA3683E784B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83FAC692-B04D-4F08-AA7A-0CA3683E784B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FAC692-B04D-4F08-AA7A-0CA3683E784B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FAC692-B04D-4F08-AA7A-0CA3683E784B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FAC692-B04D-4F08-AA7A-0CA3683E784B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FE05D6F-EB68-4FB3-914A-F6CCA78DF2FC}
+	EndGlobalSection
+EndGlobal
